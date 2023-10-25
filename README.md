@@ -13,7 +13,7 @@ Si planeas ejecutar este proyecto en NetBeans, sigue estos pasos:
 2. **Abrir el proyecto en NetBeans:**
    - Abre NetBeans.
    - En el menú, selecciona "File" (Archivo) -> "Open Project" (Abrir Proyecto).
-   - Navega hasta la carpeta "parcial1" ubicada en la carpeta "NetBeansProjects" dentro de este repositorio.
+   - Navega hasta la carpeta "Calculadora" ubicada en la carpeta "NetBeansProjects" dentro de este repositorio.
    - Selecciona el proyecto y ábrelo.
 
 3. ¡Listo! Ahora puedes comenzar a trabajar con el proyecto en NetBeans.
